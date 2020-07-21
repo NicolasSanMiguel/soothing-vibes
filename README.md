@@ -8,5 +8,5 @@ Also, the cube size, wavelength, and propagation speed can all be varied in the 
 ### Demo Normal Material
 ![Demo1](soothing_cube/normalMaterial.gif)
 
-## Ambient Material
+### Ambient Material
 ![Demo2](soothing_cube/ambientBlues.gif)
